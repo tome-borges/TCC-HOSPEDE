@@ -1,0 +1,14 @@
+Sistema Hospede
+Pedido
+Data: 22/10/2017 16:37:46
+
+-----------------------------------------
+
+Quarto: 1
+Nome: Flávio Antonio Silva
+Celular: (21)93385-0358
+
+-----------------------------------------
+
+ITENS
+Produto: Arroz  Quantidade: 12 Preço: 3.5 

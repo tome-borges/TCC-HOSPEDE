@@ -1,0 +1,15 @@
+Sistema Hospede
+Pedido
+Data: 15/10/2017 21:12:34
+
+-----------------------------------------
+
+Quarto: 2
+Nome: Fabricio Tomé Borges
+Celular: (21)98079-7032
+
+-----------------------------------------
+
+ITENS
+Produto: Bauduco  Quantidade: 2 Preço: 4.0 
+Produto: Bis  Quantidade: 3 Preço: 1.0 

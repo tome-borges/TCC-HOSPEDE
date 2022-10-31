@@ -1,0 +1,14 @@
+Sistema Hospede
+Pedido
+Data: 11/11/2017 16:19:06
+
+-----------------------------------------
+
+Quarto: 10
+Nome: Fabricio Torres
+Celular: (21)98568-7958
+
+-----------------------------------------
+
+ITENS
+Produto: Coca-Cola 500 ml  Quantidade: 2 Preço: 3.5 
